@@ -56,6 +56,7 @@
   * [Enumerate Anti-Virus & EDR](smb-protocol/enumeration/enumerate-antivirus-edr.md)
   * [Enumerate remote processes](smb-protocol/enumeration/enumerate-remote-processes.md)
   * [🆕 Enumerate changed lockscreen executables](smb-protocol/enumeration/enumerate-lockscreen-backdoors.md)
+  * [🆕 Enumerate Primary Site Server and Distribution Point via recon6](smb-protocol/enumeration/enumerate-sccm-primarysiteserver-and-distributionpoint.md)
 * [Password Spraying](smb-protocol/password-spraying.md)
 * [Authentication](smb-protocol/authentication/README.md)
   * [Checking Credentials (Domain)](smb-protocol/authentication/checking-credentials-domain.md)
@@ -159,6 +160,7 @@
 * [Password Spraying](rdp-protocol/password-spraying.md)
 * [Screenshot (connected)](rdp-protocol/screenshot-connected.md)
 * [Screenshot Without NLA (not connected)](rdp-protocol/screenshot-without-nla-not-connected.md)
+* [🆕 Command Execution](rdp-protocol/command-execution.md)
 
 ## WMI Protocol
 
